@@ -47,16 +47,6 @@ export const projects = [
     visit: "https://github.com/peterbeeshop/disneyClone-app",
     id: 4,
   },
-  // {
-  //   title: "Node Js Authentication",
-  //   description:
-  //     "In this app, in order for you to access certain pages you need to be a logged in user otherwise you would be restricted from accessing those pages. (App takes 30secs for it to load due to my free hosting service. Kindly be patient with it)",
-  //   image: "/images/jwt.png",
-  //   tags: ["Node Js", "Express", "MongoDb", "Heroku"],
-  //   source: "https://jwt-authentication-app.herokuapp.com/",
-  //   visit: "https://github.com/peterbeeshop/jwt-auth",
-  //   id: 5,
-  // },
   {
     title: "Black-Jack Game (For PC only)",
     description:

@@ -1,0 +1,24 @@
+// styles/globals.scss
+@use './colors.scss' as colors;
+
+body {
+  background-color: colors.$background;
+  color: colors.$text;
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3 {
+  color: colors.$primary;
+   font-family: 'Arial', sans-serif;
+}
+
+a {
+  color: colors.$primary;
+  text-decoration: none;
+  
+  &:hover {
+    text-decoration: underline;
+  }
+}
